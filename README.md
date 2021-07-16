@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Ryan Oliveira
+## Oiii! Eu sou o Ryan Oliveira
  <div>
   <a href="https://github.com/ryanoliveira-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanoliveira-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
