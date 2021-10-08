@@ -4,7 +4,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ryanoliveira-dev&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanoliveira-dev&layout=compact&langs_count=7&theme=monokai"/>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Ryan-yoda" height="200" width="200" 
+  <img align="right" alt="Ryan-yoda" height="250" width="250" 
  src="https://cdn.discordapp.com/attachments/698716231087423558/895889564852453416/baby-yoda-soup.gif">
  </div>
    
