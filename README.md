@@ -9,9 +9,9 @@
 - 🏹 Futuro desenvolvedor Mobile iOS. 
   
 <div align="center">
-  <a href="https://github.com/ryanoliveira-dev">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ryanoliveira-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanoliveira-dev&layout=compact&langs_count=7&theme=dracula"/> 
+  <a href="https://github.com/ryanolivrdev">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ryanolivrdev-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanolivrdev&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
   
 <div style="display: inline_block"><br> 
@@ -25,6 +25,6 @@
    
   ##
  
- ![Snake animation](https://github.com/RyanOliveira-dev/ryanoliveira-dev/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/RyanOlivrdev/ryanolivrdev/blob/output/github-contribution-grid-snake.svg)
  
  
