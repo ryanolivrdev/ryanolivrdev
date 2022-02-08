@@ -5,7 +5,7 @@
 ### Olá! eu sou o Ryan! 👋
   
 - 🔭 Tenho 18 anos
-- 🌱 Estudando Javascript/Python 
+- 🌱 Estudando HTML/CSS 
 - 🏹 Futuro desenvolvedor Mobile iOS. 
   
 <div align="center">
