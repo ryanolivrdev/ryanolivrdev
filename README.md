@@ -18,10 +18,10 @@ Me chamo Ryan, tenho 18 anos, moro em Belém/PA, Curso Ciência da Computação 
 ### Estou aprendendo
 
 
-<code><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" title = "React"/></code> 
-<code><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" title = "Typescript"/></code>
-<code><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" title = "NextJS"/></code>
-<code><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" title = "MongoDB"/></code>
+<code><img width="40px" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" title = "React"/></code> 
+<code><img width="40px" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" title = "Typescript"/></code>
+<code><img width="40px" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" title = "NextJS"/></code>
+<code><img width="40px" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" title = "MongoDB"/></code>
 
 
 
