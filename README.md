@@ -1,8 +1,8 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanOlivrDev&langs_count=12&layout=compact&theme=dark" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanOlivrDev&langs_count=12&layout=compact&theme=midnight-purple" align="right">
 
- ## 👋 Hello, I'm Ryan Oliveira!
+ ## :space_invader: Hello, I'm Ryan Oliveira!
 
-I'm 18 years old, I live in Belém/PA, I'm studying Computer Science at [Centro Universitário do Estado do Pará](https://www.cesupa.br/) and I'm passionate about programming and felines! I'm a beginner in the programming universe, official bug hunter, and the more I learn and get angry, the more I love it all! ❤. Currently, I'm studying React Native. Also check my [Linkedin](https://www.linkedin.com/in/ryanolivr/).
+I'm 18 years old, I live in Belém/PA, I'm studying Computer Science at [Centro Universitário do Estado do Pará](https://www.cesupa.br/) and I'm passionate about programming and felines! I'm a beginner in the programming universe, official bug hunter, and the more I learn and get angry, the more I love it all! :purple_heart:. Also check my [Linkedin](https://www.linkedin.com/in/ryanolivr/).
 
 ### > Programming languages I love to work in
 
