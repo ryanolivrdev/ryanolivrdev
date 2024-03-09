@@ -1,4 +1,4 @@
-[![Multiverse Banner](https://cdn.discordapp.com/attachments/897683597329317921/1003552049247551518/multiversebanner.jpeg)](https://multiverseedu.com/)
+[![Multiverse Banner](https://multiverseedu.com/Multiverse-Banner.png)](https://multiverseedu.com/)
 
 ##
 
